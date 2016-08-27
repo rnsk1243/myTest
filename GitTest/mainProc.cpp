@@ -3,5 +3,5 @@ using namespace std;
 
 void main()
 {
-	cout << "Hello C++~" << endl;
+	cout << "°¨»ç" << endl;
 }
